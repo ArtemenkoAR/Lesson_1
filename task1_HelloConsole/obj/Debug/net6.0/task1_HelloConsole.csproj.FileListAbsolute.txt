@@ -1,0 +1,15 @@
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\bin\Debug\net6.0\task1_HelloConsole.exe
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\bin\Debug\net6.0\task1_HelloConsole.deps.json
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\bin\Debug\net6.0\task1_HelloConsole.runtimeconfig.json
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\bin\Debug\net6.0\task1_HelloConsole.dll
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\bin\Debug\net6.0\task1_HelloConsole.pdb
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.AssemblyInfo.cs
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.dll
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\refint\task1_HelloConsole.dll
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.pdb
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\task1_HelloConsole.genruntimeconfig.cache
+C:\Users\Artur\OneDrive\Рабочий стол\Программирование\4. C#\Лекция 1. Знакомство\Tasks\task1_HelloConsole\obj\Debug\net6.0\ref\task1_HelloConsole.dll
